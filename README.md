@@ -6,7 +6,7 @@
 
 # Let's Connect
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/abdul-rafay-570a99228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a><a href="https://www.instagram.com/abdul__rafay_khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rafay_khan" height="35" width="45" /></a><a href="https://www.facebook.com/profile.php?id=100010908934856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul__rafay_khan" height="35" width="45" /></a></p>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/mustafa-kashif-45b639216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a><a href="https://instagram.com/mustafakashif_18?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul__rafay_khan" height="35" width="45" /></a><a href="https://www.facebook.com/profile.php?id=100010327087020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="35" width="45" /></a></p>
 
 
 ## Programming Language
@@ -19,9 +19,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-3498DB?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/express-5DADE2?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-E74C3C?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Backend_End-Development
-![NodeJS](https://img.shields.io/badge/nodejs-1D8348?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-1D8348?style=for-the-badge&logo=node.js&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/Mongodb-17202A?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
 
